@@ -5,4 +5,4 @@ Disallow: /license.txt
 Disallow: /?s=*
 Allow: /wp-admin/admin-ajax.php
 Allow: /wp-admin/images/*
-Sitemap: http://protechtrick.github.io/sitemap
+Sitemap: https://protechtrick.github.io/sitemap.xml
