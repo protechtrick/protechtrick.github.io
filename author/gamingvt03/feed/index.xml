@@ -12,12 +12,27 @@
 	<atom:link href="https://protechtrick.github.io/author/gamingvt03/feed/" rel="self" type="application/rss+xml" />
 	<link>https://protechtrick.github.io/</link>
 	<description>Chia sẻ miễn phí mọi thứ từ Internet</description>
-	<lastBuildDate>Thu, 18 Oct 2018 01:49:51 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 18 Oct 2018 02:54:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.8</generator>
 	<item>
+		<title>Test Post</title>
+		<link>https://protechtrick.github.io/uncategorized/test-post/</link>
+		<comments>https://protechtrick.github.io/uncategorized/test-post/#respond</comments>
+		<pubDate>Thu, 18 Oct 2018 02:54:27 +0000</pubDate>
+		<dc:creator><![CDATA[Tiền Minh Vy]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://protechtrick.github.io/?p=149</guid>
+		<description><![CDATA[<p>Bài viết dùng để thử nghiệm, đừng comment hay làm gì ở đây!</p>
+<p>The post <a rel="nofollow" href="https://protechtrick.github.io/uncategorized/test-post/">Test Post</a> appeared first on <a rel="nofollow" href="https://protechtrick.github.io/">Pro Tech Trick</a>.</p>
+]]></description>
+		<wfw:commentRss>https://protechtrick.github.io/uncategorized/test-post/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Vì sao tôi lại chọn Github và dùng WordPress để tạo Website</title>
 		<link>https://protechtrick.github.io/doi-dieu-ve-website/vi-sao-toi-lai-chon-github-va-dung-wordpress-de-tao-website/</link>
 		<comments>https://protechtrick.github.io/doi-dieu-ve-website/vi-sao-toi-lai-chon-github-va-dung-wordpress-de-tao-website/#respond</comments>
