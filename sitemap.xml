@@ -4,105 +4,518 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
   <loc>https://protechtrick.github.io/</loc>
-  <lastmod>2018-10-16T02:46:24+00:00</lastmod>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://protechtrick.github.io/game/</loc>
-  <lastmod>2018-10-16T02:46:24+00:00</lastmod>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/phan-mem/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/thu-thuat/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://protechtrick.github.io/all-posts/</loc>
-  <lastmod>2018-10-16T02:46:24+00:00</lastmod>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://protechtrick.github.io/chinh-sach-bao-mat/</loc>
-  <lastmod>2018-10-16T02:46:24+00:00</lastmod>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://protechtrick.github.io/faqs/</loc>
-  <lastmod>2018-10-16T02:46:24+00:00</lastmod>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://protechtrick.github.io/lien-he/</loc>
-  <lastmod>2018-10-16T02:46:24+00:00</lastmod>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://protechtrick.github.io/sitemap/</loc>
-  <lastmod>2018-10-16T02:46:24+00:00</lastmod>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://protechtrick.github.io/game/tai-game-911-operator-mien-phi/</loc>
-  <lastmod>2018-10-16T02:46:24+00:00</lastmod>
+  <loc>https://protechtrick.github.io/chia-se/chia-se-mot-so-trang-getlink-cuc-ba-dao-ma-ban-can-biet/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/chia-se/wordpress-sharing/wp-theme/tai-theme-wordpress-newspaper-mien-phi/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/thu-thuat/wordpress/huong-dan-cach-kich-hoat-theme-newspaper/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/ngoai-le/doi-dieu-ve-website/vi-sao-toi-lai-chon-github-va-dung-wordpress-de-tao-website/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/phan-mem/tai-phan-mem-ho-tro-download-internet-download-manager-idm-mien-phi/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/chia-se/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://protechtrick.github.io/author/gamingvt03/</loc>
-  <lastmod>2018-10-16T02:46:24+00:00</lastmod>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://protechtrick.github.io/game/?filter_by=featured</loc>
-  <lastmod>2018-10-16T02:46:24+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://protechtrick.github.io/category/thu-thuat/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://protechtrick.github.io/game/?filter_by=popular</loc>
-  <lastmod>2018-10-16T02:46:24+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://protechtrick.github.io/category/ngoai-le/doi-dieu-ve-website/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://protechtrick.github.io/game/?filter_by=popular7</loc>
-  <lastmod>2018-10-16T02:46:24+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://protechtrick.github.io/category/phan-mem/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://protechtrick.github.io/game/?filter_by=review_high</loc>
-  <lastmod>2018-10-16T02:46:24+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://protechtrick.github.io/phan-mem/go-tieng-viet-nhanh-chong-cung-evkey/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://protechtrick.github.io/game/?filter_by=random_posts</loc>
-  <lastmod>2018-10-16T02:46:24+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://protechtrick.github.io/thu-thuat/cach-tao-minecraft-server-mien-phi/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://protechtrick.github.io/sample-page/</loc>
-  <lastmod>2018-10-16T02:46:24+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://protechtrick.github.io/phan-mem/tai-phan-mem-bandicam-quay-video-mien-phi/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/game/tai-game-911-operator-mien-phi/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/game/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/thu-thuat/wordpress/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/chia-se/wordpress-sharing/wp-theme/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/chia-se/internet/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://protechtrick.github.io/sitemap-posts/</loc>
-  <lastmod>2018-10-16T02:46:24+00:00</lastmod>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://protechtrick.github.io/tac-gia/</loc>
-  <lastmod>2018-10-16T02:46:24+00:00</lastmod>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://protechtrick.github.io/test-site/</loc>
-  <lastmod>2018-10-16T02:46:24+00:00</lastmod>
+  <loc>https://protechtrick.github.io/category/chia-se/wordpress-sharing/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/ngoai-le/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/tag/download/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/tag/download-full-speed/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/tag/download-max-speed/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/tag/getlink/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/thu-thuat/huong-dan-cach-kich-hoat-theme-newspaper/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/tag/newspaper/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/tag/wordpress/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/chia-se/tai-theme-wordpress-newspaper-mien-phi/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/tag/blog/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/tag/blogger/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/tag/github/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/tag/idm/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/tag/tool-full/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/chia-se/?filter_by=featured</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/chia-se/?filter_by=popular</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/chia-se/?filter_by=popular7</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/chia-se/?filter_by=review_high</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/chia-se/?filter_by=random_posts</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/thu-thuat/?filter_by=featured</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/thu-thuat/?filter_by=popular</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/thu-thuat/?filter_by=popular7</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/thu-thuat/?filter_by=review_high</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/thu-thuat/?filter_by=random_posts</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/ngoai-le/doi-dieu-ve-website/?filter_by=featured</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/ngoai-le/doi-dieu-ve-website/?filter_by=popular</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/ngoai-le/doi-dieu-ve-website/?filter_by=popular7</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/ngoai-le/doi-dieu-ve-website/?filter_by=review_high</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/ngoai-le/doi-dieu-ve-website/?filter_by=random_posts</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/phan-mem/?filter_by=featured</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/phan-mem/?filter_by=popular</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/phan-mem/?filter_by=popular7</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/phan-mem/?filter_by=review_high</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/phan-mem/?filter_by=random_posts</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/tag/evkey/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/tag/go-tieng-viet/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/tag/minecraft/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/tag/minecraft-server/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/tag/bandicam/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/tag/phan-mem-quay-phim/</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://protechtrick.github.io/tag/911-operator/</loc>
-  <lastmod>2018-10-16T02:46:24+00:00</lastmod>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://protechtrick.github.io/tag/steam-games/</loc>
-  <lastmod>2018-10-16T02:46:24+00:00</lastmod>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
   <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/game/?filter_by=featured</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/game/?filter_by=popular</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/game/?filter_by=popular7</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/game/?filter_by=review_high</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/game/?filter_by=random_posts</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/thu-thuat/wordpress/?filter_by=featured</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/thu-thuat/wordpress/?filter_by=popular</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/thu-thuat/wordpress/?filter_by=popular7</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/thu-thuat/wordpress/?filter_by=review_high</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/thu-thuat/wordpress/?filter_by=random_posts</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/chia-se/wordpress-sharing/wp-theme/?filter_by=featured</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/chia-se/wordpress-sharing/wp-theme/?filter_by=popular</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/chia-se/wordpress-sharing/wp-theme/?filter_by=popular7</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/chia-se/wordpress-sharing/wp-theme/?filter_by=review_high</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/chia-se/wordpress-sharing/wp-theme/?filter_by=random_posts</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/chia-se/internet/?filter_by=featured</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/chia-se/internet/?filter_by=popular</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/chia-se/internet/?filter_by=popular7</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/chia-se/internet/?filter_by=review_high</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/chia-se/internet/?filter_by=random_posts</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/chia-se/wordpress-sharing/?filter_by=featured</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/chia-se/wordpress-sharing/?filter_by=popular</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/chia-se/wordpress-sharing/?filter_by=popular7</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/chia-se/wordpress-sharing/?filter_by=review_high</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/chia-se/wordpress-sharing/?filter_by=random_posts</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/ngoai-le/?filter_by=featured</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/ngoai-le/?filter_by=popular</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/ngoai-le/?filter_by=popular7</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/ngoai-le/?filter_by=review_high</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://protechtrick.github.io/category/ngoai-le/?filter_by=random_posts</loc>
+  <lastmod>2018-11-12T22:28:39+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 
 
