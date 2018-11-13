@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Minecraft &#8211; Pro Tech Trick</title>
+	<atom:link href="https://protechtrick.github.io/tag/minecraft/feed/" rel="self" type="application/rss+xml" />
+	<link>https://protechtrick.github.io/</link>
+	<description>Chia sẻ miễn phí mọi thứ từ Internet</description>
+	<lastBuildDate>Tue, 13 Nov 2018 04:27:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Cách Tạo Minecraft Server Miễn Phí</title>
+		<link>https://protechtrick.github.io/thu-thuat/cach-tao-minecraft-server-mien-phi/</link>
+		<comments>https://protechtrick.github.io/thu-thuat/cach-tao-minecraft-server-mien-phi/#respond</comments>
+		<pubDate>Tue, 16 Oct 2018 13:49:27 +0000</pubDate>
+		<dc:creator><![CDATA[Tiền Minh Vy]]></dc:creator>
+				<category><![CDATA[Thủ thuật]]></category>
+		<category><![CDATA[Minecraft]]></category>
+		<category><![CDATA[Minecraft Server]]></category>
+
+		<guid isPermaLink="false">https://protechtrick.github.io/?p=98</guid>
+		<description><![CDATA[<p>Minecraft là một tựa game rất thu hút người chơi. Vì rất nhiều bản game được phát hành đến tay người chơi trên khắp thế giới. Tuy vậy, giá của nó khá đắt. Nhưng tập hợp nhiều người chơi cùng chơi trên một server cùng chơi với nhau còn tốn kém hơn nữa, giá trung [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://protechtrick.github.io/thu-thuat/cach-tao-minecraft-server-mien-phi/">Cách Tạo Minecraft Server Miễn Phí</a> appeared first on <a rel="nofollow" href="https://protechtrick.github.io/">Pro Tech Trick</a>.</p>
+]]></description>
+		<wfw:commentRss>https://protechtrick.github.io/thu-thuat/cach-tao-minecraft-server-mien-phi/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
