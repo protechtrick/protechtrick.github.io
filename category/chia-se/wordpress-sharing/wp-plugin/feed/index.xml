@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Plugin &#8211; Pro Tech Trick</title>
-	<atom:link href="https://protechtrick.github.io/category/chia-se/wordpress-sharing/wp-plugin/feed/" rel="self" type="application/rss+xml" />
-	<link>https://protechtrick.github.io/</link>
+	<atom:link href="https://blog.protechtricknetwork.ga/category/chia-se/wordpress-sharing/wp-plugin/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.protechtricknetwork.ga/</link>
 	<description>Chia sẻ miễn phí mọi thứ từ Internet</description>
 	<lastBuildDate>Thu, 15 Nov 2018 03:55:42 +0000</lastBuildDate>
 	<language>en-US</language>
